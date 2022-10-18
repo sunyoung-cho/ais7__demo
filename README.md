@@ -3,7 +3,7 @@
 * 멋쟁이 사자처럼 AIS7 실습
 
 # 루방이 🫶🏻
-<img src="https://github.com/sunyoung-cho/ais7__demo/blob/main/%E1%84%85%E1%85%AE%E1%84%87%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B5.png?raw=true" width="200" height="200">
+<img src="https://github.com/sunyoung-cho/ais7__demo/blob/main/%E1%84%85%E1%85%AE%E1%84%87%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B5.png?raw=true" width="300" height="300">
 
 ## 제목2
 * 1.실습 순서
